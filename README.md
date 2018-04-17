@@ -14,6 +14,6 @@ $ yarn add --dev @vanillaforums/prettier-config
 
 **prettier.config.js**
 
-```json
+```js
 module.exports = require("@vanillaforums/prettier-config");
 ```
